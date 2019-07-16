@@ -1,5 +1,5 @@
 # Shell-Command-Line-Interpreter
-Development of my personal shell command line interpreter in C 
+Development of my personal shell command line interpreter in C. This was a project assigned by my university. The problem statement is given in the pdf file. I am uploading my solution to the Question 1 with a detailed README.
 
 ## References used: 
 a. https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
